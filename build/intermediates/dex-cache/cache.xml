@@ -9,6 +9,13 @@
         <dex dex="C:\Users\Lucas\AndroidStudioProjects\ProActing\proActing\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-bdc69aaef7c70fa4a50dcf7a65e829cedb4f6659.jar" />
     </item>
     <item
+        jar="C:\Users\Lucas\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\ProActing\proActing\build\intermediates\pre-dexed\debug\library-2.4.0-05dd04452cb20a318e9ee3b6fdbef5a4bf8ce0bc.jar" />
+    </item>
+    <item
         jar="C:\Users\Lucas\AndroidStudioProjects\ProActing\proActing\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
         jumboMode="false"
         revision="21.1.2"
@@ -23,13 +30,6 @@
         <dex dex="C:\Users\Lucas\AndroidStudioProjects\ProActing\proActing\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-997bc4e56fd072da8688b8e4e35dda48bdcf0569.jar" />
     </item>
     <item
-        jar="C:\Users\Lucas\AndroidStudioProjects\ProActing\proActing\build\intermediates\exploded-aar\ProActing\materialDesign\unspecified\libs\nineoldandroids-2.4.0.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\ProActing\proActing\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0-6a35ef93f166f722aeaf9abb4d8684b06ffda877.jar" />
-    </item>
-    <item
         jar="C:\Users\Lucas\AndroidStudioProjects\ProActing\proActing\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
         jumboMode="false"
         revision="21.1.2"
@@ -37,11 +37,11 @@
         <dex dex="C:\Users\Lucas\AndroidStudioProjects\ProActing\proActing\build\intermediates\pre-dexed\debug\classes-d48fbaa4cb1bacdecb57217dfb0e07eaaeaf7309.jar" />
     </item>
     <item
-        jar="C:\Users\Lucas\AndroidStudioProjects\ProActing\proActing\build\intermediates\exploded-aar\ProActing\materialDesign\unspecified\classes.jar"
+        jar="C:\Users\Lucas\AndroidStudioProjects\ProActing\proActing\build\intermediates\exploded-aar\com.github.navasmdc\MaterialDesign\1.4\classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="2316b0d13d02c230a4fe5c333d1a29ed60e6e657">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\ProActing\proActing\build\intermediates\pre-dexed\debug\classes-7bb60acde621403266f755c0bfbaa67da175f5d2.jar" />
+        sha1="87405405e403de68f4057757b8a2e8de02bd65d0">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\ProActing\proActing\build\intermediates\pre-dexed\debug\classes-25b56e128846bf06d13273249e8474f97d9727a2.jar" />
     </item>
 
 </items>

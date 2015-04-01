@@ -7,6 +7,7 @@ public class Act {
 	private ArrayList<Scene> mScenes;
 	private Project mProject;
 	private String mTitle;
+
 	
 	public Act(String title)
 	{
