@@ -2,6 +2,20 @@
 <items version="2" >
 
     <item
+        jar="C:\Users\Lucas\AndroidStudioProjects\ProActing\proActing\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\ProActing\proActing\build\intermediates\pre-dexed\debug\classes-d48fbaa4cb1bacdecb57217dfb0e07eaaeaf7309.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas\AndroidStudioProjects\ProActing\proActing\build\intermediates\exploded-aar\com.github.navasmdc\MaterialDesign\1.4\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="87405405e403de68f4057757b8a2e8de02bd65d0">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\ProActing\proActing\build\intermediates\pre-dexed\debug\classes-25b56e128846bf06d13273249e8474f97d9727a2.jar" />
+    </item>
+    <item
         jar="C:\Users\Lucas\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
         jumboMode="false"
         revision="21.1.2"
@@ -28,20 +42,6 @@
         revision="21.1.2"
         sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
         <dex dex="C:\Users\Lucas\AndroidStudioProjects\ProActing\proActing\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-997bc4e56fd072da8688b8e4e35dda48bdcf0569.jar" />
-    </item>
-    <item
-        jar="C:\Users\Lucas\AndroidStudioProjects\ProActing\proActing\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\ProActing\proActing\build\intermediates\pre-dexed\debug\classes-d48fbaa4cb1bacdecb57217dfb0e07eaaeaf7309.jar" />
-    </item>
-    <item
-        jar="C:\Users\Lucas\AndroidStudioProjects\ProActing\proActing\build\intermediates\exploded-aar\com.github.navasmdc\MaterialDesign\1.4\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="87405405e403de68f4057757b8a2e8de02bd65d0">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\ProActing\proActing\build\intermediates\pre-dexed\debug\classes-25b56e128846bf06d13273249e8474f97d9727a2.jar" />
     </item>
 
 </items>
