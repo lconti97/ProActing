@@ -1,0 +1,20 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <include
+        android:id="@+id/fragment_scene_play_buttonBar"
+        layout="@layout/three_button_bar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true" />
+
+    <ListView
+        android:id="@+id/fragment_scene_play_lineList"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/fragment_scene_play_buttonBar" >
+    </ListView>
+
+</RelativeLayout><!-- From: file:/C:/Users/Lucas/AndroidStudioProjects/ProActing/proActing/src/main/res/layout/fragment_scene_play.xml -->

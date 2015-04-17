@@ -1618,6 +1618,7 @@ containing a value of this type.
         public static final int snackbar=0x7f030021;
         public static final int support_simple_spinner_dropdown_item=0x7f030022;
         public static final int three_button_bar=0x7f030023;
+        public static final int toolbar=0x7f030024;
     }
     public static final class menu {
         public static final int fragment_project_list=0x7f0c0000;

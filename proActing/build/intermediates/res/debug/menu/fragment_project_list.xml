@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+	<item android:id="@+id/menu_item_new_project"
+	    android:icon="@android:drawable/ic_menu_add"
+	    android:title="@string/new_project"
+	    android:showAsAction="ifRoom|withText" />    
+
+</menu>
+<!-- From: file:/C:/Users/Lucas/AndroidStudioProjects/ProActing/proActing/src/main/res/menu/fragment_project_list.xml -->
