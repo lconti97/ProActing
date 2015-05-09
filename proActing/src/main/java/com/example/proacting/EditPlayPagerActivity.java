@@ -15,6 +15,7 @@ import android.support.v7.app.ActionBar;
 import android.support.v7.app.ActionBar.Tab;
 import android.support.v7.app.ActionBar.TabListener;
 import android.support.v7.app.ActionBarActivity;
+import android.support.v7.widget.Toolbar;
 import android.util.Log;
 import android.widget.ArrayAdapter;
 
@@ -27,6 +28,7 @@ public class EditPlayPagerActivity extends ActionBarActivity {
 	private Scene mScene;
 	private ViewPager mViewPager;
 	private ArrayAdapter<Line> mLineListAdapter;
+	private Toolbar mToolbar;
 
 	@Override
 	public void onCreate(Bundle savedInstanceState)
@@ -34,13 +36,17 @@ public class EditPlayPagerActivity extends ActionBarActivity {
 		super.onCreate(savedInstanceState);
 		
 		mScene = new Scene("Sample");
-		
+
 		mLineListAdapter = new ArrayAdapter<Line>(
 				this, 
 				android.R.layout.simple_list_item_1,
 				mScene.getLines());
 
 		setContentView(R.layout.activity_edit_play_pager);
+
+		mToolbar = (Toolbar)findViewById(R.id.toolbar);
+		setSupportActionBar(mToolbar);
+
 		mViewPager = (ViewPager)findViewById(R.id.activity_edit_play_view_pager);
 		mViewPager.setOnPageChangeListener(new OnPageChangeListener() {
 
@@ -78,34 +84,34 @@ public class EditPlayPagerActivity extends ActionBarActivity {
 		});
 
 	
-		ActionBar actionBar = getSupportActionBar();
-		actionBar.setNavigationMode(ActionBar.NAVIGATION_MODE_TABS);
-		ActionBar.TabListener tabListener = new TabListener() {
-
-			@Override
-			public void onTabUnselected(Tab tab, FragmentTransaction ft) {
-
-			}
-
-			@Override
-			public void onTabSelected(Tab tab, FragmentTransaction ft) {
-				mViewPager.setCurrentItem(tab.getPosition());
-			}
-
-			@Override
-			public void onTabReselected(Tab tab, FragmentTransaction ft) {
-
-			}
-		};
-		actionBar.addTab(
-				actionBar.newTab() 
-				.setText(R.string.edit)
-				.setTabListener(tabListener));
-
-		actionBar.addTab(
-				actionBar.newTab() 
-				.setText(R.string.play)
-				.setTabListener(tabListener));
+//		ActionBar actionBar = getSupportActionBar();
+//		actionBar.setNavigationMode(ActionBar.NAVIGATION_MODE_TABS);
+//		ActionBar.TabListener tabListener = new TabListener() {
+//
+//			@Override
+//			public void onTabUnselected(Tab tab, FragmentTransaction ft) {
+//
+//			}
+//
+//			@Override
+//			public void onTabSelected(Tab tab, FragmentTransaction ft) {
+//				mViewPager.setCurrentItem(tab.getPosition());
+//			}
+//
+//			@Override
+//			public void onTabReselected(Tab tab, FragmentTransaction ft) {
+//
+//			}
+//		};
+//		actionBar.addTab(
+//				actionBar.newTab()
+//				.setText(R.string.edit)
+//				.setTabListener(tabListener));
+//
+//		actionBar.addTab(
+//				actionBar.newTab()
+//				.setText(R.string.play)
+//				.setTabListener(tabListener));
 
 	}
 	

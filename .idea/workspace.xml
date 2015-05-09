@@ -25,9 +25,28 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="app: com.example.proacting" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d48444f-88b6-4814-a9e9-5d09c012ec56" name="Default" comment="Fix LinesList on Play">
+    <list default="true" id="0d48444f-88b6-4814-a9e9-5d09c012ec56" name="Default" comment="Convert to toolbar">
+      <change type="DELETED" beforePath="C:\Users\Lucas\AndroidStudioProjects\ProActing\proActing\build\intermediates\classes\debug\com\example\proacting\EditPlayPagerActivity$3.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/EditPlayPagerActivity$1.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/EditPlayPagerActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/EditPlayPagerActivity$2.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/EditPlayPagerActivity$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/EditPlayPagerActivity.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/EditPlayPagerActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/ProjectListFragment$2.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/ProjectListFragment$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/ProjectListFragment$3.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/ProjectListFragment$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/ProjectListFragment$4.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/ProjectListFragment$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/ProjectListFragment.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/ProjectListFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/ProjectTitleDialog.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/ProjectTitleDialog.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/learnmylines/R$id.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/learnmylines/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/gc/materialdesign/R$id.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/gc/materialdesign/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/learnmylines/R$integer.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/learnmylines/R$integer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/learnmylines/R$layout.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/learnmylines/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/learnmylines/R$menu.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/learnmylines/R$menu.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/learnmylines/R$string.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/learnmylines/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/learnmylines/R$style.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/learnmylines/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/learnmylines/R$styleable.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/learnmylines/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/learnmylines/R.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/learnmylines/R.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/SceneEditFragment.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/SceneEditFragment.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/ScenePlayFragment.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/ScenePlayFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/SingleFragmentActivity.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/SingleFragmentActivity.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/cache.properties.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/dex/debug/classes.dex" afterPath="$PROJECT_DIR$/proActing/build/intermediates/dex/debug/classes.dex" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileHashes.bin" />
@@ -36,12 +55,16 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/outputs/apk/proActing-debug.apk" afterPath="$PROJECT_DIR$/proActing/build/outputs/apk/proActing-debug.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/resources/resources-debug.ap_" afterPath="$PROJECT_DIR$/proActing/build/intermediates/resources/resources-debug.ap_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/src/main/java/com/example/proacting/EditPlayPagerActivity.java" afterPath="$PROJECT_DIR$/proActing/src/main/java/com/example/proacting/EditPlayPagerActivity.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/generated/source/r/debug/com/example/learnmylines/R.java" afterPath="$PROJECT_DIR$/proActing/build/generated/source/r/debug/com/example/learnmylines/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/generated/source/r/debug/com/gc/materialdesign/R.java" afterPath="$PROJECT_DIR$/proActing/build/generated/source/r/debug/com/gc/materialdesign/R.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/symbols/debug/R.txt" afterPath="$PROJECT_DIR$/proActing/build/intermediates/symbols/debug/R.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/layout/fragment_scene_edit.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/layout/fragment_scene_edit.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/src/main/res/layout/fragment_scene_edit.xml" afterPath="$PROJECT_DIR$/proActing/src/main/res/layout/fragment_scene_edit.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/layout/activity_edit_play_pager.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/layout/activity_edit_play_pager.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/src/main/res/layout/activity_edit_play_pager.xml" afterPath="$PROJECT_DIR$/proActing/src/main/res/layout/activity_edit_play_pager.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/layout/fragment_scene_play.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/layout/fragment_scene_play.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/src/main/res/layout/fragment_scene_play.xml" afterPath="$PROJECT_DIR$/proActing/src/main/res/layout/fragment_scene_play.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/incremental/mergeResources/debug/merger.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/incremental/mergeResources/debug/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/src/main/res/values/styles.xml" afterPath="$PROJECT_DIR$/proActing/src/main/res/values/styles.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values/values.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ProActing.iws" />
@@ -98,54 +121,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="SceneEditFragment.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/proActing/src/main/java/com/example/proacting/SceneEditFragment.java">
+      <file leaf-file-name="EditPlayPagerActivity.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/proActing/src/main/java/com/example/proacting/EditPlayPagerActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="55" column="19" selection-start-line="55" selection-start-column="19" selection-end-line="55" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ScenePlayFragment.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/proActing/src/main/java/com/example/proacting/ScenePlayFragment.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="87" column="37" selection-start-line="87" selection-start-column="37" selection-end-line="87" selection-end-column="37" />
+            <state vertical-scroll-proportion="0.33269963">
+              <caret line="54" column="26" selection-start-line="54" selection-start-column="26" selection-end-line="54" selection-end-column="26" />
               <folding>
-                <element signature="e#1158#1260#0" expanded="true" />
-                <element signature="e#1259#1260#0" expanded="true" />
-                <element signature="e#1308#1403#0" expanded="true" />
-                <element signature="e#1402#1403#0" expanded="true" />
-                <element signature="e#1451#1745#0" expanded="true" />
-                <element signature="e#1744#1745#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#1630#1631#0" expanded="true" />
+                <element signature="e#1693#1694#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fragment_scene_edit.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/proActing/src/main/res/layout/fragment_scene_edit.xml">
+      <file leaf-file-name="activity_edit_play_pager.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/proActing/src/main/res/layout/activity_edit_play_pager.xml">
           <provider editor-type-id="android-designer">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.75">
-              <caret line="6" column="47" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fragment_scene_play.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/proActing/src/main/res/layout/fragment_scene_play.xml">
-          <provider editor-type-id="android-designer">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.46296296">
-              <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+            <state vertical-scroll-proportion="-6.55">
+              <caret line="14" column="63" selection-start-line="14" selection-start-column="63" selection-end-line="14" selection-end-column="63" />
               <folding />
             </state>
           </provider>
@@ -160,6 +157,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
   </component>
   <component name="GradleLocalSettings">
     <option name="tasksExpandState">
@@ -1457,6 +1459,9 @@
       <list>
         <option value="$PROJECT_DIR$/proActing/src/main/res/layout/fragment_scene_edit.xml" />
         <option value="$PROJECT_DIR$/proActing/src/main/res/layout/fragment_scene_play.xml" />
+        <option value="$PROJECT_DIR$/proActing/src/main/res/values/styles.xml" />
+        <option value="$PROJECT_DIR$/proActing/src/main/java/com/example/proacting/EditPlayPagerActivity.java" />
+        <option value="$PROJECT_DIR$/proActing/src/main/res/layout/activity_edit_play_pager.xml" />
       </list>
     </option>
   </component>
@@ -1521,6 +1526,50 @@
               <option name="myItemId" value="proActing" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="values" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="styles.xml" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResGroupNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProActing" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="proActing" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="values" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProActing" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="proActing" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -1538,6 +1587,16 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="proacting" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProActing" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="proActing" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -1835,7 +1894,13 @@
       <option name="project" value="LOCAL" />
       <updated>1431139429320</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Fix LinesList on Play">
+      <created>1431140473907</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1431140473907</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1843,33 +1908,33 @@
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32818073" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32818073" sideWeight="0.5021552" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32818073" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="1.0" sideWeight="0.5021552" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3297414" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32818073" sideWeight="0.49784482" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32818073" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3282313" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39239" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3282313" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24838363" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32970452" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2496112" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297414" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32818073" sideWeight="0.49784482" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.66944116" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3282313" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="1.0" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3282313" sideWeight="0.5" order="13" side_tool="true" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24838363" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32970452" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2496112" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39965987" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32993197" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32993197" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Memory Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3282313" sideWeight="0.5612708" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Memory Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3282313" sideWeight="0.5612708" order="14" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1888,7 +1953,8 @@
     <MESSAGE value="Change materialDesign library reference to gradle" />
     <MESSAGE value="Control" />
     <MESSAGE value="Fix LinesList on Play" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix LinesList on Play" />
+    <MESSAGE value="Convert to toolbar" />
+    <option name="LAST_COMMIT_MESSAGE" value="Convert to toolbar" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -2162,50 +2228,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/proActing/src/main/java/com/example/proacting/EditPlayPagerActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.96633416">
-          <caret line="31" column="42" selection-start-line="31" selection-start-column="42" selection-end-line="31" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/proActing/src/main/res/layout/activity_edit_play_pager.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1312336">
-          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/proActing/src/main/res/values/styles.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.49875313">
-          <caret line="16" column="58" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/proActing/src/main/java/com/example/proacting/ScenePlayFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="87" column="37" selection-start-line="87" selection-start-column="37" selection-end-line="87" selection-end-column="37" />
-          <folding>
-            <element signature="e#1158#1260#0" expanded="true" />
-            <element signature="e#1259#1260#0" expanded="true" />
-            <element signature="e#1308#1403#0" expanded="true" />
-            <element signature="e#1402#1403#0" expanded="true" />
-            <element signature="e#1451#1745#0" expanded="true" />
-            <element signature="e#1744#1745#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/proActing/src/main/java/com/example/proacting/SceneEditFragment.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -2230,9 +2252,63 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.46296296">
-          <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+        <state vertical-scroll-proportion="0.492126">
+          <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proActing/src/main/java/com/example/proacting/SingleFragmentActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12468828">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proActing/src/main/java/com/example/proacting/ScenePlayFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="87" column="37" selection-start-line="87" selection-start-column="37" selection-end-line="87" selection-end-column="37" />
+          <folding>
+            <element signature="e#1158#1260#0" expanded="false" />
+            <element signature="e#1259#1260#0" expanded="false" />
+            <element signature="e#1308#1403#0" expanded="false" />
+            <element signature="e#1402#1403#0" expanded="false" />
+            <element signature="e#1451#1745#0" expanded="false" />
+            <element signature="e#1744#1745#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proActing/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.06234414">
+          <caret line="2" column="72" selection-start-line="2" selection-start-column="72" selection-end-line="2" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proActing/src/main/res/layout/activity_edit_play_pager.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.55">
+          <caret line="14" column="63" selection-start-line="14" selection-start-column="63" selection-end-line="14" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proActing/src/main/java/com/example/proacting/EditPlayPagerActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33269963">
+          <caret line="54" column="26" selection-start-line="54" selection-start-column="26" selection-end-line="54" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1630#1631#0" expanded="true" />
+            <element signature="e#1693#1694#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
