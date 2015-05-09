@@ -16,6 +16,14 @@
 
     </android.support.v7.widget.Toolbar>
 
+
+    <com.astuetz.PagerSlidingTabStrip
+        android:id="@+id/tabs"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="?attr/colorPrimary"
+        android:textColorPrimary="#FFFFFF"/>
+
     <android.support.v4.view.ViewPager
 
         android:id="@+id/activity_edit_play_view_pager"

@@ -25,8 +25,8 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="app: com.example.proacting" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d48444f-88b6-4814-a9e9-5d09c012ec56" name="Default" comment="Convert to toolbar">
-      <change type="DELETED" beforePath="C:\Users\Lucas\AndroidStudioProjects\ProActing\proActing\build\intermediates\classes\debug\com\example\proacting\EditPlayPagerActivity$3.class" afterPath="" />
+    <list default="true" id="0d48444f-88b6-4814-a9e9-5d09c012ec56" name="Default" comment="Re-implement tabs">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/library_1_0_9.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/EditPlayPagerActivity$1.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/EditPlayPagerActivity$1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/EditPlayPagerActivity$2.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/EditPlayPagerActivity$2.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/EditPlayPagerActivity.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/EditPlayPagerActivity.class" />
@@ -35,13 +35,26 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/ProjectListFragment$4.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/ProjectListFragment$4.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/ProjectListFragment.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/ProjectListFragment.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/ProjectTitleDialog.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/ProjectTitleDialog.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/android/support/v7/appcompat/R$attr.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/android/support/v7/appcompat/R$attr.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/learnmylines/R$attr.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/learnmylines/R$attr.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/learnmylines/R$bool.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/learnmylines/R$bool.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/android/support/v7/appcompat/R$color.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/android/support/v7/appcompat/R$color.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/learnmylines/R$color.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/learnmylines/R$color.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/gc/materialdesign/R$color.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/gc/materialdesign/R$color.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/learnmylines/R$dimen.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/learnmylines/R$dimen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/learnmylines/R$drawable.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/learnmylines/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/gc/materialdesign/R$drawable.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/gc/materialdesign/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/android/support/v7/appcompat/R$id.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/android/support/v7/appcompat/R$id.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/learnmylines/R$id.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/learnmylines/R$id.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/gc/materialdesign/R$id.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/gc/materialdesign/R$id.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/learnmylines/R$integer.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/learnmylines/R$integer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/android/support/v7/appcompat/R$layout.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/android/support/v7/appcompat/R$layout.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/learnmylines/R$layout.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/learnmylines/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/gc/materialdesign/R$layout.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/gc/materialdesign/R$layout.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/learnmylines/R$menu.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/learnmylines/R$menu.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/learnmylines/R$string.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/learnmylines/R$string.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/learnmylines/R$style.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/learnmylines/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/android/support/v7/appcompat/R$styleable.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/android/support/v7/appcompat/R$styleable.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/learnmylines/R$styleable.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/learnmylines/R$styleable.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/learnmylines/R.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/learnmylines/R.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/SceneEditFragment.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/SceneEditFragment.class" />
@@ -51,19 +64,24 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/dex/debug/classes.dex" afterPath="$PROJECT_DIR$/proActing/build/intermediates/dex/debug/classes.dex" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/outputFileStates.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/outputs/apk/proActing-debug-unaligned.apk" afterPath="$PROJECT_DIR$/proActing/build/outputs/apk/proActing-debug-unaligned.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/outputs/apk/proActing-debug.apk" afterPath="$PROJECT_DIR$/proActing/build/outputs/apk/proActing-debug.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/resources/resources-debug.ap_" afterPath="$PROJECT_DIR$/proActing/build/intermediates/resources/resources-debug.ap_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/taskArtifacts.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/src/main/java/com/example/proacting/EditPlayPagerActivity.java" afterPath="$PROJECT_DIR$/proActing/src/main/java/com/example/proacting/EditPlayPagerActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/generated/source/r/debug/android/support/v7/appcompat/R.java" afterPath="$PROJECT_DIR$/proActing/build/generated/source/r/debug/android/support/v7/appcompat/R.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/generated/source/r/debug/com/example/learnmylines/R.java" afterPath="$PROJECT_DIR$/proActing/build/generated/source/r/debug/com/example/learnmylines/R.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/generated/source/r/debug/com/gc/materialdesign/R.java" afterPath="$PROJECT_DIR$/proActing/build/generated/source/r/debug/com/gc/materialdesign/R.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/symbols/debug/R.txt" afterPath="$PROJECT_DIR$/proActing/build/intermediates/symbols/debug/R.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/layout/activity_edit_play_pager.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/layout/activity_edit_play_pager.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/src/main/res/layout/activity_edit_play_pager.xml" afterPath="$PROJECT_DIR$/proActing/src/main/res/layout/activity_edit_play_pager.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/layout/fragment_scene_play.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/layout/fragment_scene_play.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build.gradle" afterPath="$PROJECT_DIR$/proActing/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/library_2_4_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/library_2_4_0.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/proActing/build/outputs/logs/manifest-merger-debug-report.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/incremental/mergeResources/debug/merger.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/incremental/mergeResources/debug/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/src/main/res/values/styles.xml" afterPath="$PROJECT_DIR$/proActing/src/main/res/values/styles.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/proActing.iml" afterPath="$PROJECT_DIR$/proActing/proActing.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values/values.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -124,12 +142,13 @@
       <file leaf-file-name="EditPlayPagerActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/proActing/src/main/java/com/example/proacting/EditPlayPagerActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.33269963">
-              <caret line="54" column="26" selection-start-line="54" selection-start-column="26" selection-end-line="54" selection-end-column="26" />
+            <state vertical-scroll-proportion="-4.707113">
+              <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1630#1631#0" expanded="true" />
-                <element signature="e#1693#1694#0" expanded="true" />
+                <element signature="e#1908#1909#0" expanded="true" />
+                <element signature="e#1927#1928#0" expanded="true" />
+                <element signature="e#2150#2151#0" expanded="true" />
+                <element signature="e#2184#2185#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -141,8 +160,8 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.55">
-              <caret line="14" column="63" selection-start-line="14" selection-start-column="63" selection-end-line="14" selection-end-column="63" />
+            <state vertical-scroll-proportion="-7.175">
+              <caret line="24" column="41" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -1025,6 +1044,11 @@
                 <option name="name" value="prepareComGithubNavasmdcMaterialDesign14Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Prepare com.jpardogo.materialtabstrip:library:1.0.9" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/proActing" />
+                <option name="name" value="prepareComJpardogoMaterialtabstripLibrary109Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/proActing" />
                 <option name="name" value="prepareDebugAndroidTestDependencies" />
               </ExternalTaskPojo>
@@ -1127,7 +1151,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="4293416993862" />
+        <entry key="$PROJECT_DIR$" value="4293422240866" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -1378,6 +1402,7 @@
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar" />
                             <option value="$USER_HOME$/AppData/Local/Android/sdk/extras/android/m2repository/com/android/support/appcompat-v7/22.0.0/appcompat-v7-22.0.0.aar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.navasmdc/MaterialDesign/1.4/3d39ac96244fb3b7c31b1b3d85f8bf07db18388e/MaterialDesign-1.4.aar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jpardogo.materialtabstrip/library/1.0.9/334a11c516c6de98ad68cf3747c0d2071335521e/library-1.0.9.aar" />
                             <option value="$USER_HOME$/AppData/Local/Android/sdk/extras/android/m2repository/com/android/support/support-v4/22.0.0/support-v4-22.0.0.aar" />
                             <option value="$USER_HOME$/AppData/Local/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar" />
                           </list>
@@ -1460,8 +1485,9 @@
         <option value="$PROJECT_DIR$/proActing/src/main/res/layout/fragment_scene_edit.xml" />
         <option value="$PROJECT_DIR$/proActing/src/main/res/layout/fragment_scene_play.xml" />
         <option value="$PROJECT_DIR$/proActing/src/main/res/values/styles.xml" />
-        <option value="$PROJECT_DIR$/proActing/src/main/java/com/example/proacting/EditPlayPagerActivity.java" />
+        <option value="$PROJECT_DIR$/proActing/build.gradle" />
         <option value="$PROJECT_DIR$/proActing/src/main/res/layout/activity_edit_play_pager.xml" />
+        <option value="$PROJECT_DIR$/proActing/src/main/java/com/example/proacting/EditPlayPagerActivity.java" />
       </list>
     </option>
   </component>
@@ -1900,7 +1926,13 @@
       <option name="project" value="LOCAL" />
       <updated>1431140473907</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Convert to toolbar">
+      <created>1431143675132</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1431143675132</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1908,7 +1940,7 @@
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32818073" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.66944116" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="1.0" sideWeight="0.5021552" order="7" side_tool="true" content_ui="tabs" />
@@ -1954,7 +1986,8 @@
     <MESSAGE value="Control" />
     <MESSAGE value="Fix LinesList on Play" />
     <MESSAGE value="Convert to toolbar" />
-    <option name="LAST_COMMIT_MESSAGE" value="Convert to toolbar" />
+    <MESSAGE value="Re-implement tabs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Re-implement tabs" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1970,9 +2003,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1999,9 +2030,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="28" column="48" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2028,9 +2057,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2057,9 +2084,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2086,9 +2111,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="51" column="71" selection-start-line="51" selection-start-column="71" selection-end-line="51" selection-end-column="71" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2221,13 +2244,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/proActing/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.54464287">
-          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/proActing/src/main/java/com/example/proacting/SceneEditFragment.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -2289,25 +2305,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/proActing/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0024937657">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/proActing/src/main/res/layout/activity_edit_play_pager.xml">
       <provider editor-type-id="android-designer">
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.55">
-          <caret line="14" column="63" selection-start-line="14" selection-start-column="63" selection-end-line="14" selection-end-column="63" />
+        <state vertical-scroll-proportion="-7.175">
+          <caret line="24" column="41" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/proActing/src/main/java/com/example/proacting/EditPlayPagerActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33269963">
-          <caret line="54" column="26" selection-start-line="54" selection-start-column="26" selection-end-line="54" selection-end-column="26" />
+        <state vertical-scroll-proportion="-4.707113">
+          <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1630#1631#0" expanded="true" />
-            <element signature="e#1693#1694#0" expanded="true" />
+            <element signature="e#1908#1909#0" expanded="true" />
+            <element signature="e#1927#1928#0" expanded="true" />
+            <element signature="e#2150#2151#0" expanded="true" />
+            <element signature="e#2184#2185#0" expanded="true" />
           </folding>
         </state>
       </provider>

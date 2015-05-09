@@ -1,24 +1,19 @@
 package com.example.proacting;
 
 
-
 import android.annotation.TargetApi;
 import android.os.Build;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
-import android.support.v4.app.FragmentTransaction;
 import android.support.v4.view.ViewPager;
 import android.support.v4.view.ViewPager.OnPageChangeListener;
-import android.support.v7.app.ActionBar;
-import android.support.v7.app.ActionBar.Tab;
-import android.support.v7.app.ActionBar.TabListener;
 import android.support.v7.app.ActionBarActivity;
 import android.support.v7.widget.Toolbar;
-import android.util.Log;
 import android.widget.ArrayAdapter;
 
+import com.astuetz.PagerSlidingTabStrip;
 import com.example.learnmylines.R;
 
 @TargetApi(Build.VERSION_CODES.LOLLIPOP)
@@ -29,6 +24,7 @@ public class EditPlayPagerActivity extends ActionBarActivity {
 	private ViewPager mViewPager;
 	private ArrayAdapter<Line> mLineListAdapter;
 	private Toolbar mToolbar;
+	private PagerSlidingTabStrip mTabs;
 
 	@Override
 	public void onCreate(Bundle savedInstanceState)
@@ -52,7 +48,7 @@ public class EditPlayPagerActivity extends ActionBarActivity {
 
 			@Override
 			public void onPageSelected(int pos) {
-				getSupportActionBar().setSelectedNavigationItem(pos);
+//				getSupportActionBar().setSelectedNavigationItem(pos);
 			}
 
 			@Override
@@ -69,6 +65,8 @@ public class EditPlayPagerActivity extends ActionBarActivity {
 		FragmentManager fm = getSupportFragmentManager();
 		mViewPager.setAdapter(new FragmentPagerAdapter(fm) {
 
+			String[] TITLES = {"edit", "play"};
+
 			@Override
 			public int getCount() {
 				return 2;
@@ -81,38 +79,15 @@ public class EditPlayPagerActivity extends ActionBarActivity {
 				else
 					return new ScenePlayFragment();
 			}
+
+			@Override
+			public CharSequence getPageTitle(int position) {
+				return TITLES[position];
+			}
 		});
 
-	
-//		ActionBar actionBar = getSupportActionBar();
-//		actionBar.setNavigationMode(ActionBar.NAVIGATION_MODE_TABS);
-//		ActionBar.TabListener tabListener = new TabListener() {
-//
-//			@Override
-//			public void onTabUnselected(Tab tab, FragmentTransaction ft) {
-//
-//			}
-//
-//			@Override
-//			public void onTabSelected(Tab tab, FragmentTransaction ft) {
-//				mViewPager.setCurrentItem(tab.getPosition());
-//			}
-//
-//			@Override
-//			public void onTabReselected(Tab tab, FragmentTransaction ft) {
-//
-//			}
-//		};
-//		actionBar.addTab(
-//				actionBar.newTab()
-//				.setText(R.string.edit)
-//				.setTabListener(tabListener));
-//
-//		actionBar.addTab(
-//				actionBar.newTab()
-//				.setText(R.string.play)
-//				.setTabListener(tabListener));
-
+		mTabs = (PagerSlidingTabStrip)findViewById(R.id.tabs);
+		mTabs.setViewPager(mViewPager);
 	}
 	
 	public ArrayAdapter<Line> getLineListAdapter()
