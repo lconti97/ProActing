@@ -1522,8 +1522,8 @@ containing a value of this type.
         public static final int fragmentContainer=0x7f080040;
         public static final int fragment_scene_edit_buttonBar=0x7f080050;
         public static final int fragment_scene_edit_lineList=0x7f08004f;
-        public static final int fragment_scene_play_buttonBar=0x7f080051;
-        public static final int fragment_scene_play_lineList=0x7f080052;
+        public static final int fragment_scene_play_buttonBar=0x7f080052;
+        public static final int fragment_scene_play_lineList=0x7f080051;
         public static final int green=0x7f080045;
         public static final int home=0x7f080004;
         public static final int homeAsUp=0x7f08000d;
