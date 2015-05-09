@@ -26,12 +26,442 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0d48444f-88b6-4814-a9e9-5d09c012ec56" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/model_data.bin" afterPath="$PROJECT_DIR$/build/intermediates/model_data.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/EditPlayPagerActivity$1.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/EditPlayPagerActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/EditPlayPagerActivity$2.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/EditPlayPagerActivity$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/EditPlayPagerActivity$3.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/EditPlayPagerActivity$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/EditPlayPagerActivity.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/EditPlayPagerActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/NLevelAdapter$NLevelFilter$AsyncFilter.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/NLevelAdapter$NLevelFilter$AsyncFilter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/NLevelAdapter$NLevelFilter.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/NLevelAdapter$NLevelFilter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/NLevelAdapter.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/NLevelAdapter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/ProjectListFragment$1.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/ProjectListFragment$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/ProjectListFragment$2.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/ProjectListFragment$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/ProjectListFragment$3.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/ProjectListFragment$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/ProjectListFragment$4.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/ProjectListFragment$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/ProjectListFragment.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/ProjectListFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/ProjectTitleDialog$1.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/ProjectTitleDialog$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/ProjectTitleDialog.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/ProjectTitleDialog.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/SceneAudioPlayer.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/SceneAudioPlayer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/SceneAudioRecorder.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/SceneAudioRecorder.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/SceneEditFragment$1.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/SceneEditFragment$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/SceneEditFragment$2.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/SceneEditFragment$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/SceneEditFragment$3.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/SceneEditFragment$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/SceneEditFragment$4.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/SceneEditFragment$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/SceneEditFragment.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/SceneEditFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/ScenePlayFragment$1.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/ScenePlayFragment$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/ScenePlayFragment$2.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/ScenePlayFragment$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/ScenePlayFragment$3.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/ScenePlayFragment$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/ScenePlayFragment$4.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/ScenePlayFragment$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/ScenePlayFragment$5.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/ScenePlayFragment$5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/ScenePlayFragment$6.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/ScenePlayFragment$6.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/ScenePlayFragment.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/ScenePlayFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/SingleFragmentActivity.class" afterPath="$PROJECT_DIR$/proActing/build/intermediates/classes/debug/com/example/proacting/SingleFragmentActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/cache.properties.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/dex/debug/classes.dex" afterPath="$PROJECT_DIR$/proActing/build/intermediates/dex/debug/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/outputFileStates.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/outputs/apk/proActing-debug-unaligned.apk" afterPath="$PROJECT_DIR$/proActing/build/outputs/apk/proActing-debug-unaligned.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/outputs/apk/proActing-debug.apk" afterPath="$PROJECT_DIR$/proActing/build/outputs/apk/proActing-debug.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/resources/resources-debug-androidTest.ap_" afterPath="$PROJECT_DIR$/proActing/build/intermediates/resources/resources-debug-androidTest.ap_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/resources/resources-debug.ap_" afterPath="$PROJECT_DIR$/proActing/build/intermediates/resources/resources-debug.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/generated/source/r/debug/com/example/learnmylines/R.java" afterPath="$PROJECT_DIR$/proActing/build/generated/source/r/debug/com/example/learnmylines/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/AndroidManifest.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/aapt/AndroidManifest.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/aapt/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/aapt/AndroidManifest.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/aapt/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.github.navasmdc/MaterialDesign/1.4/AndroidManifest.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.github.navasmdc/MaterialDesign/1.4/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/manifests/androidTest/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/manifests/androidTest/debug/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/generated/source/buildConfig/androidTest/debug/com/example/proacting/test/BuildConfig.java" afterPath="$PROJECT_DIR$/proActing/build/generated/source/buildConfig/androidTest/debug/com/example/proacting/test/BuildConfig.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/generated/source/buildConfig/debug/com/example/learnmylines/BuildConfig.java" afterPath="$PROJECT_DIR$/proActing/build/generated/source/buildConfig/debug/com/example/learnmylines/BuildConfig.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/aidl/android/support/v4/media/MediaMetadataCompat.aidl" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/aidl/android/support/v4/media/MediaMetadataCompat.aidl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/aidl/android/support/v4/media/session/MediaSessionCompat.aidl" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/aidl/android/support/v4/media/session/MediaSessionCompat.aidl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/aidl/android/support/v4/media/session/ParcelableVolumeInfo.aidl" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/aidl/android/support/v4/media/session/ParcelableVolumeInfo.aidl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/aidl/android/support/v4/media/session/PlaybackStateCompat.aidl" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/aidl/android/support/v4/media/session/PlaybackStateCompat.aidl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ProActing.iml" afterPath="$PROJECT_DIR$/ProActing.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/generated/source/r/debug/android/support/v7/appcompat/R.java" afterPath="$PROJECT_DIR$/proActing/build/generated/source/r/debug/android/support/v7/appcompat/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/generated/source/r/debug/com/gc/materialdesign/R.java" afterPath="$PROJECT_DIR$/proActing/build/generated/source/r/debug/com/gc/materialdesign/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/R.txt" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/R.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.github.navasmdc/MaterialDesign/1.4/R.txt" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.github.navasmdc/MaterialDesign/1.4/R.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/aidl/android/support/v4/media/RatingCompat.aidl" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/aidl/android/support/v4/media/RatingCompat.aidl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_action_bar_title_item.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_action_bar_title_item.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/layout/abc_action_bar_title_item.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/layout/abc_action_bar_title_item.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_action_bar_up_container.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_action_bar_up_container.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/layout/abc_action_bar_up_container.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/layout/abc_action_bar_up_container.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_action_bar_view_list_nav_layout.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_action_bar_view_list_nav_layout.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/layout/abc_action_bar_view_list_nav_layout.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/layout/abc_action_bar_view_list_nav_layout.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_action_menu_item_layout.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_action_menu_item_layout.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/layout/abc_action_menu_item_layout.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/layout/abc_action_menu_item_layout.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_action_menu_layout.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_action_menu_layout.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/layout/abc_action_menu_layout.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/layout/abc_action_menu_layout.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_action_mode_bar.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_action_mode_bar.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/layout/abc_action_mode_bar.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/layout/abc_action_mode_bar.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_action_mode_close_item_material.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_action_mode_close_item_material.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/layout/abc_action_mode_close_item_material.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/layout/abc_action_mode_close_item_material.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_activity_chooser_view.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_activity_chooser_view.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/layout/abc_activity_chooser_view.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/layout/abc_activity_chooser_view.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_activity_chooser_view_list_item.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_activity_chooser_view_list_item.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/layout/abc_activity_chooser_view_list_item.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/layout/abc_activity_chooser_view_list_item.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/color/abc_background_cache_hint_selector_material_dark.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/color/abc_background_cache_hint_selector_material_dark.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/color/abc_background_cache_hint_selector_material_dark.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/color/abc_background_cache_hint_selector_material_dark.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/color/abc_background_cache_hint_selector_material_light.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/color/abc_background_cache_hint_selector_material_light.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/color/abc_background_cache_hint_selector_material_light.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/color/abc_background_cache_hint_selector_material_light.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable/abc_btn_check_material.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable/abc_btn_check_material.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/drawable/abc_btn_check_material.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/drawable/abc_btn_check_material.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable/abc_btn_default_mtrl_shape.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable/abc_btn_default_mtrl_shape.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/drawable/abc_btn_default_mtrl_shape.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/drawable/abc_btn_default_mtrl_shape.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable/abc_btn_radio_material.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable/abc_btn_radio_material.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/drawable/abc_btn_radio_material.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/drawable/abc_btn_radio_material.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable/abc_cab_background_internal_bg.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable/abc_cab_background_internal_bg.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/drawable/abc_cab_background_internal_bg.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/drawable/abc_cab_background_internal_bg.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable/abc_cab_background_top_material.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable/abc_cab_background_top_material.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/drawable/abc_cab_background_top_material.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/drawable/abc_cab_background_top_material.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable/abc_edit_text_material.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable/abc_edit_text_material.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/drawable/abc_edit_text_material.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/drawable/abc_edit_text_material.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_expanded_menu_layout.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_expanded_menu_layout.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/layout/abc_expanded_menu_layout.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/layout/abc_expanded_menu_layout.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/anim/abc_fade_in.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/anim/abc_fade_in.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/anim/abc_fade_in.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/anim/abc_fade_in.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/anim/abc_fade_out.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/anim/abc_fade_out.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/anim/abc_fade_out.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/anim/abc_fade_out.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/anim/abc_grow_fade_in_from_bottom.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/anim/abc_grow_fade_in_from_bottom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/anim/abc_grow_fade_in_from_bottom.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/anim/abc_grow_fade_in_from_bottom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable/abc_item_background_holo_dark.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable/abc_item_background_holo_dark.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/drawable/abc_item_background_holo_dark.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/drawable/abc_item_background_holo_dark.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable/abc_item_background_holo_light.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable/abc_item_background_holo_light.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/drawable/abc_item_background_holo_light.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/drawable/abc_item_background_holo_light.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_list_menu_item_checkbox.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_list_menu_item_checkbox.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/layout/abc_list_menu_item_checkbox.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/layout/abc_list_menu_item_checkbox.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_list_menu_item_icon.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_list_menu_item_icon.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/layout/abc_list_menu_item_icon.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/layout/abc_list_menu_item_icon.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_list_menu_item_layout.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_list_menu_item_layout.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/layout/abc_list_menu_item_layout.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/layout/abc_list_menu_item_layout.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_list_menu_item_radio.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_list_menu_item_radio.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/layout/abc_list_menu_item_radio.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/layout/abc_list_menu_item_radio.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/drawable/abc_list_selector_background_transition_holo_dark.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/drawable/abc_list_selector_background_transition_holo_dark.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable/abc_list_selector_background_transition_holo_light.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable/abc_list_selector_background_transition_holo_light.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/drawable/abc_list_selector_background_transition_holo_light.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/drawable/abc_list_selector_background_transition_holo_light.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable/abc_list_selector_holo_dark.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable/abc_list_selector_holo_dark.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/drawable/abc_list_selector_holo_dark.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/drawable/abc_list_selector_holo_dark.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable/abc_list_selector_holo_light.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable/abc_list_selector_holo_light.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/drawable/abc_list_selector_holo_light.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/drawable/abc_list_selector_holo_light.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_popup_menu_item_layout.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_popup_menu_item_layout.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/layout/abc_popup_menu_item_layout.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/layout/abc_popup_menu_item_layout.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/color/abc_primary_text_disable_only_material_dark.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/color/abc_primary_text_disable_only_material_dark.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/color/abc_primary_text_disable_only_material_dark.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/color/abc_primary_text_disable_only_material_dark.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/color/abc_primary_text_disable_only_material_light.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/color/abc_primary_text_disable_only_material_light.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/color/abc_primary_text_disable_only_material_light.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/color/abc_primary_text_disable_only_material_light.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/color/abc_primary_text_material_dark.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/color/abc_primary_text_material_dark.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/color/abc_primary_text_material_dark.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/color/abc_primary_text_material_dark.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/color/abc_primary_text_material_light.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/color/abc_primary_text_material_light.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/color/abc_primary_text_material_light.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/color/abc_primary_text_material_light.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable/abc_ratingbar_full_material.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable/abc_ratingbar_full_material.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/drawable/abc_ratingbar_full_material.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/drawable/abc_ratingbar_full_material.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_screen_content_include.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_screen_content_include.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout-v11/abc_screen_content_include.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout-v11/abc_screen_content_include.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/layout/abc_screen_content_include.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/layout/abc_screen_content_include.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/layout-v11/abc_screen_content_include.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/layout-v11/abc_screen_content_include.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_screen_simple.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_screen_simple.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/layout/abc_screen_simple.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/layout/abc_screen_simple.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_screen_simple_overlay_action_mode.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_screen_simple_overlay_action_mode.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/layout/abc_screen_simple_overlay_action_mode.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/layout/abc_screen_simple_overlay_action_mode.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_screen_toolbar.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_screen_toolbar.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/layout/abc_screen_toolbar.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/layout/abc_screen_toolbar.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_search_dropdown_item_icons_2line.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_search_dropdown_item_icons_2line.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/layout/abc_search_dropdown_item_icons_2line.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/layout/abc_search_dropdown_item_icons_2line.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/color/abc_search_url_text.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/color/abc_search_url_text.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/color/abc_search_url_text.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/color/abc_search_url_text.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_search_view.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_search_view.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/layout/abc_search_view.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/layout/abc_search_view.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/color/abc_secondary_text_material_dark.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/color/abc_secondary_text_material_dark.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/color/abc_secondary_text_material_dark.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/color/abc_secondary_text_material_dark.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/color/abc_secondary_text_material_light.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/color/abc_secondary_text_material_light.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/color/abc_secondary_text_material_light.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/color/abc_secondary_text_material_light.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/anim/abc_shrink_fade_out_from_bottom.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/anim/abc_shrink_fade_out_from_bottom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/anim/abc_shrink_fade_out_from_bottom.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/anim/abc_shrink_fade_out_from_bottom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_simple_dropdown_hint.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_simple_dropdown_hint.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/layout/abc_simple_dropdown_hint.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/layout/abc_simple_dropdown_hint.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/anim/abc_slide_in_bottom.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/anim/abc_slide_in_bottom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/anim/abc_slide_in_bottom.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/anim/abc_slide_in_bottom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/anim/abc_slide_in_top.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/anim/abc_slide_in_top.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/anim/abc_slide_in_top.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/anim/abc_slide_in_top.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/anim/abc_slide_out_bottom.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/anim/abc_slide_out_bottom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/anim/abc_slide_out_bottom.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/anim/abc_slide_out_bottom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/anim/abc_slide_out_top.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/anim/abc_slide_out_top.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/anim/abc_slide_out_top.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/anim/abc_slide_out_top.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable/abc_spinner_textfield_background_material.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable/abc_spinner_textfield_background_material.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/drawable/abc_spinner_textfield_background_material.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/drawable/abc_spinner_textfield_background_material.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable/abc_switch_thumb_material.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable/abc_switch_thumb_material.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/drawable/abc_switch_thumb_material.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/drawable/abc_switch_thumb_material.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable/abc_tab_indicator_material.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable/abc_tab_indicator_material.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/drawable/abc_tab_indicator_material.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/drawable/abc_tab_indicator_material.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable/abc_textfield_search_material.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable/abc_textfield_search_material.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/drawable/abc_textfield_search_material.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/drawable/abc_textfield_search_material.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.github.navasmdc/MaterialDesign/1.4/res/drawable/background_button_float.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.github.navasmdc/MaterialDesign/1.4/res/drawable/background_button_float.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/drawable/background_button_float.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/drawable/background_button_float.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.github.navasmdc/MaterialDesign/1.4/res/drawable/background_button_rectangle.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.github.navasmdc/MaterialDesign/1.4/res/drawable/background_button_rectangle.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/drawable/background_button_rectangle.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/drawable/background_button_rectangle.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.github.navasmdc/MaterialDesign/1.4/res/drawable/background_checkbox.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.github.navasmdc/MaterialDesign/1.4/res/drawable/background_checkbox.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/drawable/background_checkbox.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/drawable/background_checkbox.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.github.navasmdc/MaterialDesign/1.4/res/drawable/background_checkbox_check.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.github.navasmdc/MaterialDesign/1.4/res/drawable/background_checkbox_check.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/drawable/background_checkbox_check.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/drawable/background_checkbox_check.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.github.navasmdc/MaterialDesign/1.4/res/drawable/background_checkbox_uncheck.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.github.navasmdc/MaterialDesign/1.4/res/drawable/background_checkbox_uncheck.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/drawable/background_checkbox_uncheck.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/drawable/background_checkbox_uncheck.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.github.navasmdc/MaterialDesign/1.4/res/drawable/background_progress.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.github.navasmdc/MaterialDesign/1.4/res/drawable/background_progress.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/drawable/background_progress.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/drawable/background_progress.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.github.navasmdc/MaterialDesign/1.4/res/drawable/background_switch_ball_uncheck.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.github.navasmdc/MaterialDesign/1.4/res/drawable/background_switch_ball_uncheck.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/drawable/background_switch_ball_uncheck.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/drawable/background_switch_ball_uncheck.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.github.navasmdc/MaterialDesign/1.4/res/drawable/background_transparent.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.github.navasmdc/MaterialDesign/1.4/res/drawable/background_transparent.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/drawable/background_transparent.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/drawable/background_transparent.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.github.navasmdc/MaterialDesign/1.4/res/layout/color_selector.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.github.navasmdc/MaterialDesign/1.4/res/layout/color_selector.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/layout/color_selector.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/layout/color_selector.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.github.navasmdc/MaterialDesign/1.4/res/layout/dialog.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.github.navasmdc/MaterialDesign/1.4/res/layout/dialog.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/layout/dialog.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/layout/dialog.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.github.navasmdc/MaterialDesign/1.4/res/anim/dialog_main_hide_amination.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.github.navasmdc/MaterialDesign/1.4/res/anim/dialog_main_hide_amination.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/anim/dialog_main_hide_amination.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/anim/dialog_main_hide_amination.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.github.navasmdc/MaterialDesign/1.4/res/anim/dialog_main_show_amination.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.github.navasmdc/MaterialDesign/1.4/res/anim/dialog_main_show_amination.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/anim/dialog_main_show_amination.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/anim/dialog_main_show_amination.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.github.navasmdc/MaterialDesign/1.4/res/anim/dialog_root_hide_amin.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.github.navasmdc/MaterialDesign/1.4/res/anim/dialog_root_hide_amin.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/anim/dialog_root_hide_amin.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/anim/dialog_root_hide_amin.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.github.navasmdc/MaterialDesign/1.4/res/anim/dialog_root_show_amin.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.github.navasmdc/MaterialDesign/1.4/res/anim/dialog_root_show_amin.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/anim/dialog_root_show_amin.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/anim/dialog_root_show_amin.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/library_2_4_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/library_2_4_0.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/proActing/build/outputs/logs/manifest-merger-debug-report.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/incremental/mergeAssets/androidTest/debug/merger.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/incremental/mergeAssets/androidTest/debug/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/incremental/mergeAssets/debug/merger.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/incremental/mergeAssets/debug/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/incremental/mergeResources/androidTest/debug/merger.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/incremental/mergeResources/androidTest/debug/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/incremental/mergeResources/debug/merger.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/incremental/mergeResources/debug/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.github.navasmdc/MaterialDesign/1.4/res/layout/number_indicator_spinner.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.github.navasmdc/MaterialDesign/1.4/res/layout/number_indicator_spinner.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/layout/number_indicator_spinner.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/layout/number_indicator_spinner.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/proActing.iml" afterPath="$PROJECT_DIR$/proActing/proActing.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.github.navasmdc/MaterialDesign/1.4/res/layout/progress_dialog.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.github.navasmdc/MaterialDesign/1.4/res/layout/progress_dialog.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/layout/progress_dialog.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/layout/progress_dialog.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.github.navasmdc/MaterialDesign/1.4/res/anim/progress_indeterminate_animation.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.github.navasmdc/MaterialDesign/1.4/res/anim/progress_indeterminate_animation.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/anim/progress_indeterminate_animation.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/anim/progress_indeterminate_animation.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.github.navasmdc/MaterialDesign/1.4/res/drawable/shadow_down.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.github.navasmdc/MaterialDesign/1.4/res/drawable/shadow_down.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/drawable/shadow_down.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/drawable/shadow_down.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.github.navasmdc/MaterialDesign/1.4/res/drawable/shadow_right.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.github.navasmdc/MaterialDesign/1.4/res/drawable/shadow_right.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/drawable/shadow_right.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/drawable/shadow_right.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.github.navasmdc/MaterialDesign/1.4/res/layout/snackbar.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.github.navasmdc/MaterialDesign/1.4/res/layout/snackbar.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/layout/snackbar.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/layout/snackbar.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.github.navasmdc/MaterialDesign/1.4/res/anim/snackbar_hide_animation.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.github.navasmdc/MaterialDesign/1.4/res/anim/snackbar_hide_animation.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/anim/snackbar_hide_animation.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/anim/snackbar_hide_animation.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.github.navasmdc/MaterialDesign/1.4/res/anim/snackbar_show_animation.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.github.navasmdc/MaterialDesign/1.4/res/anim/snackbar_show_animation.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/anim/snackbar_show_animation.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/anim/snackbar_show_animation.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/support_simple_spinner_dropdown_item.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/support_simple_spinner_dropdown_item.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/layout/support_simple_spinner_dropdown_item.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/layout/support_simple_spinner_dropdown_item.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_v4_22_0_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_v4_22_0_0.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-af/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-af/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-am/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-am/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-ar/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-ar/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-bg/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-bg/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-bn-rBD/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-bn-rBD/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-ca/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-ca/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-cs/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-cs/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-da/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-da/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-de/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-de/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-el/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-el/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-en-rGB/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-en-rGB/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-en-rIN/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-en-rIN/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-es/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-es/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-es-rUS/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-es-rUS/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-et-rEE/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-et-rEE/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-eu-rES/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-eu-rES/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-fa/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-fa/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-fi/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-fi/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-fr/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-fr/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-fr-rCA/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-fr-rCA/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-gl-rES/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-gl-rES/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-hdpi-v4/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-hdpi-v4/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-hi/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-hi/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-hr/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-hr/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-hu/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-hu/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-hy-rAM/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-hy-rAM/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-in/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-in/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-is-rIS/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-is-rIS/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-it/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-it/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-iw/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-iw/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-ja/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-ja/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-ka-rGE/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-ka-rGE/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-kk-rKZ/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-kk-rKZ/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-km-rKH/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-km-rKH/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-kn-rIN/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-kn-rIN/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-ko/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-ko/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-ky-rKG/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-ky-rKG/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-land/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-land/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-large-v4/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-large-v4/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-lo-rLA/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-lo-rLA/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-lt/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-lt/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-lv/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-lv/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-mk-rMK/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-mk-rMK/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-ml-rIN/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-ml-rIN/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-mn-rMN/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-mn-rMN/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-mr-rIN/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-mr-rIN/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-ms-rMY/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-ms-rMY/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-my-rMM/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-my-rMM/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-nb/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-nb/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-ne-rNP/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-ne-rNP/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-nl/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-nl/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-pl/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-pl/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-port/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-port/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-pt/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-pt/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-pt-rPT/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-pt-rPT/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-ro/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-ro/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-ru/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-ru/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-si-rLK/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-si-rLK/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-sk/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-sk/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-sl/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-sl/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-sr/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-sr/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-sv/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-sv/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-sw/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-sw/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-sw600dp-v13/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-sw600dp-v13/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-ta-rIN/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-ta-rIN/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-te-rIN/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-te-rIN/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-th/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-th/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-tl/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-tl/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-tr/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-tr/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-uk/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-uk/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-ur-rPK/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-ur-rPK/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-uz-rUZ/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-uz-rUZ/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v11/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v11/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v14/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v14/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v17/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v17/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-vi/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-vi/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-w360dp-v13/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-w360dp-v13/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-w480dp-v13/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-w480dp-v13/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-w500dp-v13/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-w500dp-v13/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-w600dp-v13/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-w600dp-v13/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-w720dp-v13/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-w720dp-v13/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-xlarge-land-v4/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-xlarge-land-v4/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-xlarge-v4/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-xlarge-v4/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-zh-rCN/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-zh-rCN/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-zh-rHK/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-zh-rHK/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-zh-rTW/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-zh-rTW/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-zu/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-zu/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.github.navasmdc/MaterialDesign/1.4/res/values/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.github.navasmdc/MaterialDesign/1.4/res/values/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-af/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-af/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-am/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-am/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-ar/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-ar/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-bg/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-bg/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-bn-rBD/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-bn-rBD/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-ca/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-ca/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-cs/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-cs/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-da/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-da/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-de/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-de/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-el/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-el/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-en-rGB/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-en-rGB/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-en-rIN/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-en-rIN/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-es/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-es/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-es-rUS/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-es-rUS/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-et-rEE/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-et-rEE/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-eu-rES/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-eu-rES/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-fa/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-fa/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-fi/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-fi/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-fr/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-fr/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-fr-rCA/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-fr-rCA/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-gl-rES/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-gl-rES/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-hdpi-v4/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-hdpi-v4/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-hi/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-hi/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-hr/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-hr/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-hu/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-hu/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-hy-rAM/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-hy-rAM/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-in/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-in/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-is-rIS/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-is-rIS/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-it/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-it/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-iw/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-iw/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-ja/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-ja/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-ka-rGE/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-ka-rGE/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-kk-rKZ/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-kk-rKZ/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-km-rKH/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-km-rKH/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-kn-rIN/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-kn-rIN/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-ko/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-ko/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-ky-rKG/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-ky-rKG/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-land/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-land/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-large-v4/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-large-v4/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-lo-rLA/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-lo-rLA/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-lt/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-lt/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-lv/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-lv/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-mk-rMK/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-mk-rMK/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-ml-rIN/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-ml-rIN/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-mn-rMN/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-mn-rMN/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-mr-rIN/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-mr-rIN/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-ms-rMY/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-ms-rMY/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-my-rMM/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-my-rMM/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-nb/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-nb/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-ne-rNP/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-ne-rNP/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-nl/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-nl/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-pl/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-pl/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-port/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-port/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-pt/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-pt/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-pt-rPT/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-pt-rPT/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-ro/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-ro/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-ru/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-ru/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-si-rLK/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-si-rLK/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-sk/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-sk/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-sl/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-sl/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-sr/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-sr/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-sv/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-sv/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-sw/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-sw/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-sw600dp-v13/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-sw600dp-v13/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-ta-rIN/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-ta-rIN/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-te-rIN/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-te-rIN/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-th/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-th/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-tl/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-tl/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-tr/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-tr/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-uk/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-uk/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-ur-rPK/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-ur-rPK/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-uz-rUZ/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-uz-rUZ/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-v11/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-v11/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-v14/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-v14/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-v17/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-v17/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-v21/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-v21/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-vi/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-vi/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-w360dp-v13/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-w360dp-v13/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-w480dp-v13/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-w480dp-v13/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-w500dp-v13/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-w500dp-v13/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-w600dp-v13/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-w600dp-v13/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-w720dp-v13/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-w720dp-v13/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-w820dp-v13/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-w820dp-v13/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-xlarge-land-v4/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-xlarge-land-v4/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-xlarge-v4/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-xlarge-v4/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-zh-rCN/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-zh-rCN/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-zh-rHK/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-zh-rHK/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-zh-rTW/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-zh-rTW/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-zu/values.xml" afterPath="$PROJECT_DIR$/proActing/build/intermediates/res/debug/values-zu/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ProActing.iws" />
     <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/classes/" />
+    <ignored path="$PROJECT_DIR$/proActing/build/intermediates/assets/" />
+    <ignored path="$PROJECT_DIR$/proActing/build/intermediates/bundles/" />
+    <ignored path="$PROJECT_DIR$/proActing/build/intermediates/classes/" />
+    <ignored path="$PROJECT_DIR$/proActing/build/intermediates/coverage-instrumented-classes/" />
+    <ignored path="$PROJECT_DIR$/proActing/build/intermediates/dependency-cache/" />
+    <ignored path="$PROJECT_DIR$/proActing/build/intermediates/dex/" />
+    <ignored path="$PROJECT_DIR$/proActing/build/intermediates/dex-cache/" />
+    <ignored path="$PROJECT_DIR$/proActing/build/intermediates/incremental/" />
+    <ignored path="$PROJECT_DIR$/proActing/build/intermediates/jacoco/" />
+    <ignored path="$PROJECT_DIR$/proActing/build/intermediates/javaResources/" />
+    <ignored path="$PROJECT_DIR$/proActing/build/intermediates/libs/" />
+    <ignored path="$PROJECT_DIR$/proActing/build/intermediates/lint/" />
+    <ignored path="$PROJECT_DIR$/proActing/build/intermediates/manifests/" />
+    <ignored path="$PROJECT_DIR$/proActing/build/intermediates/ndk/" />
+    <ignored path="$PROJECT_DIR$/proActing/build/intermediates/pre-dexed/" />
+    <ignored path="$PROJECT_DIR$/proActing/build/intermediates/proguard/" />
+    <ignored path="$PROJECT_DIR$/proActing/build/intermediates/res/" />
+    <ignored path="$PROJECT_DIR$/proActing/build/intermediates/rs/" />
+    <ignored path="$PROJECT_DIR$/proActing/build/intermediates/symbols/" />
+    <ignored path="$PROJECT_DIR$/proActing/build/outputs/" />
+    <ignored path="$PROJECT_DIR$/proActing/build/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,19 +477,23 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="DaemonCodeAnalyzer">
-    <disable_hints />
-  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
   <component name="FavoritesManager">
     <favorites_list name="ProActing" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="EditPlayPagerActivity.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="EditPlayPagerActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/proActing/src/main/java/com/example/proacting/EditPlayPagerActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2125" vertical-offset="306" max-vertical-offset="2040">
+            <state vertical-scroll-proportion="0.0">
               <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -68,23 +502,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="activity_edit_play_pager.xml" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="activity_edit_play_pager.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/proActing/src/main/res/layout/activity_edit_play_pager.xml">
           <provider editor-type-id="android-designer">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="221">
+            <state vertical-scroll-proportion="0.0">
               <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styles.xml" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="styles.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/proActing/src/main/res/values/styles.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="425">
+            <state vertical-scroll-proportion="0.0">
               <caret line="16" column="58" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
               <folding />
             </state>
@@ -119,12 +553,12 @@
           <value>
             <list>
               <ExternalProjectPojo>
-                <option name="name" value="ProActing" />
-                <option name="path" value="$PROJECT_DIR$" />
-              </ExternalProjectPojo>
-              <ExternalProjectPojo>
                 <option name="name" value=":proActing" />
                 <option name="path" value="$PROJECT_DIR$/proActing" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="ProActing" />
+                <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
             </list>
           </value>
@@ -1065,7 +1499,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="4284259103199" />
+        <entry key="$PROJECT_DIR$" value="4293416993862" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -1392,32 +1826,17 @@
       </map>
     </option>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="changedFiles">
-      <list>
-        <option value="$PROJECT_DIR$/proActing/src/main/java/com/example/proacting/Act.java" />
-        <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/proActing/src/main/java/com/example/proacting/NavDrawer.java" />
-        <option value="$PROJECT_DIR$/proActing/src/main/java/com/example/proacting/SceneEditFragment.java" />
-        <option value="$PROJECT_DIR$/proActing/src/main/java/com/example/proacting/DrawerSample.java" />
-        <option value="$PROJECT_DIR$/proActing/src/main/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/proActing/src/main/res/layout/fragment_scene_edit.xml" />
-        <option value="$PROJECT_DIR$/proActing/src/main/res/layout/toolbar.xml" />
-        <option value="$PROJECT_DIR$/proActing/src/main/res/values/styles.xml" />
-        <option value="$PROJECT_DIR$/proActing/build.gradle" />
-        <option value="$PROJECT_DIR$/proActing/src/main/res/layout/activity_edit_play_pager.xml" />
-        <option value="$PROJECT_DIR$/proActing/src/main/java/com/example/proacting/EditPlayPagerActivity.java" />
-      </list>
-    </option>
-  </component>
   <component name="MavenProjectNavigator">
     <treeState />
   </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
+    <option name="width" value="1942" />
+    <option name="height" value="1046" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -1445,6 +1864,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -1461,10 +1882,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="ProActing" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="proActing" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -1489,7 +1906,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -1509,7 +1925,7 @@
     <property name="recentsLimit" value="5" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="CB5A21S8HQ" />
-    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="MyNexus7" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="Nexus_5_API_21_x86" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="77" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="77" />
@@ -1532,13 +1948,28 @@
     <property name="LayoutCode.rearrangeEntriesJava" value="false" />
   </component>
   <component name="RunManager" selected="Android Application.proActing">
-    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
-      <setting name="path" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workDir" value="file://$PROJECT_DIR$" />
-      <setting name="debug" value="false" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_SELECTION_ERROR" value="" />
       <method />
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
@@ -1560,6 +1991,55 @@
       <option name="CLEAR_LOGCAT" value="false" />
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_SELECTION_ERROR" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
       <method />
     </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
@@ -1571,6 +2051,7 @@
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -1597,60 +2078,6 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
-      <module name="" />
-      <option name="ACTIVITY_CLASS" value="" />
-      <option name="MODE" value="default_activity" />
-      <option name="DEPLOY" value="true" />
-      <option name="ARTIFACT_NAME" value="" />
-      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="USE_COMMAND_LINE" value="true" />
-      <option name="COMMAND_LINE" value="" />
-      <option name="WIPE_USER_DATA" value="false" />
-      <option name="DISABLE_BOOT_ANIMATION" value="false" />
-      <option name="NETWORK_SPEED" value="full" />
-      <option name="NETWORK_LATENCY" value="none" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
-      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
-      <method />
-    </configuration>
     <configuration default="false" name="proActing" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="proActing" />
       <option name="ACTIVITY_CLASS" value="" />
@@ -1669,6 +2096,10 @@
       <option name="CLEAR_LOGCAT" value="false" />
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_SELECTION_ERROR" value="" />
       <RunnerSettings RunnerId="AndroidDebugRunner" />
       <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
       <method />
@@ -1706,51 +2137,57 @@
     <task active="true" id="Default" summary="Default task">
       <changelist id="0d48444f-88b6-4814-a9e9-5d09c012ec56" name="Default" comment="" />
       <created>1427777092960</created>
+      <option name="number" value="Default" />
       <updated>1427777092960</updated>
     </task>
     <task id="LOCAL-00001" summary="Change materialDesign library reference to gradle">
       <created>1427862960769</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
       <updated>1427862960769</updated>
     </task>
     <task id="LOCAL-00002" summary="Control">
       <created>1428101453622</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
       <updated>1428101453622</updated>
     </task>
     <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-11" y="-11" width="1942" height="1046" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32993197" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3282313" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39965987" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.60544217" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3282313" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3282313" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3282313" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.60544217" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32970452" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2496112" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32818073" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.60544217" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24886535" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3282313" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Memory Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3282313" sideWeight="0.5612708" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3282313" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32818073" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3282313" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39239" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3282313" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24838363" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32970452" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2496112" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39965987" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980332" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32993197" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980332" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Memory Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3282313" sideWeight="0.5612708" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1765,9 +2202,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="myTodoPanelSettings">
-      <TodoPanelSettings />
-    </option>
     <MESSAGE value="Change materialDesign library reference to gradle" />
     <MESSAGE value="Control" />
     <option name="LAST_COMMIT_MESSAGE" value="Control" />
@@ -1779,11 +2213,41 @@
       </breakpoints-dialog>
       <option name="time" value="13" />
     </breakpoint-manager>
+    <watches-manager />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/proActing/src/main/java/com/example/proacting/EditPlayPagerActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2040">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proActing/src/main/res/layout/activity_edit_play_pager.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proActing/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="58" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proActing/src/main/java/com/example/proacting/EditPlayPagerActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
           <caret line="28" column="48" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1796,7 +2260,7 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="221">
+        <state vertical-scroll-proportion="0.0">
           <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
           <folding />
         </state>
@@ -1804,7 +2268,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/proActing/src/main/res/values/styles.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="425">
+        <state vertical-scroll-proportion="0.0">
           <caret line="16" column="58" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
           <folding />
         </state>
@@ -1812,7 +2276,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/proActing/src/main/java/com/example/proacting/EditPlayPagerActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="2227">
+        <state vertical-scroll-proportion="0.0">
           <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1825,7 +2289,7 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="221">
+        <state vertical-scroll-proportion="0.0">
           <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
           <folding />
         </state>
@@ -1833,7 +2297,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/proActing/src/main/res/values/styles.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="425">
+        <state vertical-scroll-proportion="0.0">
           <caret line="16" column="58" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
           <folding />
         </state>
@@ -1841,7 +2305,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/proActing/src/main/java/com/example/proacting/EditPlayPagerActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2227">
+        <state vertical-scroll-proportion="0.0">
           <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1854,7 +2318,7 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="221">
+        <state vertical-scroll-proportion="0.0">
           <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
           <folding />
         </state>
@@ -1862,7 +2326,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/proActing/src/main/res/values/styles.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="425">
+        <state vertical-scroll-proportion="0.0">
           <caret line="16" column="58" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
           <folding />
         </state>
@@ -1870,7 +2334,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/proActing/src/main/java/com/example/proacting/EditPlayPagerActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="680" max-vertical-offset="2346">
+        <state vertical-scroll-proportion="0.0">
           <caret line="51" column="71" selection-start-line="51" selection-start-column="71" selection-end-line="51" selection-end-column="71" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1880,49 +2344,49 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/proActing/src/main/java/com/example/proacting/ScenePlayFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="833" max-vertical-offset="4267">
+        <state vertical-scroll-proportion="0.0">
           <caret line="49" column="37" selection-start-line="49" selection-start-column="37" selection-end-line="49" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/proActing/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="595">
+        <state vertical-scroll-proportion="0.0">
           <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/import-summary.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="1598">
+        <state vertical-scroll-proportion="0.0">
           <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/import-summary.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1598">
+        <state vertical-scroll-proportion="0.0">
           <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/proActing/src/main/java/com/example/proacting/Act.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.27321428" vertical-offset="0" max-vertical-offset="850">
+        <state vertical-scroll-proportion="0.27321428">
           <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/import-summary.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.030357143" vertical-offset="170" max-vertical-offset="1598">
+        <state vertical-scroll-proportion="0.030357143">
           <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
         </state>
       </provider>
@@ -1932,7 +2396,7 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.14900662" vertical-offset="363" max-vertical-offset="765">
+        <state vertical-scroll-proportion="0.14900662">
           <caret line="24" column="45" selection-start-line="24" selection-start-column="45" selection-end-line="24" selection-end-column="45" />
           <folding />
         </state>
@@ -1940,56 +2404,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/settings.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="560">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/AppData/Local/Android/sdk/platforms/android-22/android.jar!/android/app/Activity.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="8292" max-vertical-offset="8483">
-          <caret line="494" column="0" selection-start-line="494" selection-start-column="0" selection-end-line="494" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/AppData/Local/Android/sdk/platforms/android-22/android.jar!/android/app/Instrumentation.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2665" max-vertical-offset="2856">
-          <caret line="163" column="0" selection-start-line="163" selection-start-column="0" selection-end-line="163" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/it.neokree/MaterialNavigationDrawer/1.3.3/classes.jar!/it/neokree/materialnavigationdrawer/MaterialNavigationDrawer.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="8.987952" vertical-offset="3183" max-vertical-offset="4777">
+        <state vertical-scroll-proportion="8.987952">
           <caret line="276" column="0" selection-start-line="276" selection-start-column="0" selection-end-line="276" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar!/android/support/v7/app/ActionBarActivity.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.37951806" vertical-offset="1467" max-vertical-offset="2108">
+        <state vertical-scroll-proportion="0.37951806">
           <caret line="91" column="0" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar!/android/support/v7/app/ActionBarActivityDelegateBase.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.37951806" vertical-offset="2997" max-vertical-offset="4233">
+        <state vertical-scroll-proportion="0.37951806">
           <caret line="181" column="0" selection-start-line="181" selection-start-column="0" selection-end-line="181" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/AppData/Local/Android/sdk/extras/android/m2repository/com/android/support/support-v4/22.0.0/support-v4-22.0.0-sources.jar!/android/support/v4/app/FragmentPagerAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-37.642857" vertical-offset="0" max-vertical-offset="2669">
+        <state vertical-scroll-proportion="-37.642857">
           <caret line="82" column="28" selection-start-line="82" selection-start-column="28" selection-end-line="82" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/proActing/src/main/java/com/example/proacting/SceneEditFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.81964284" vertical-offset="102" max-vertical-offset="2516">
+        <state vertical-scroll-proportion="0.81964284">
           <caret line="51" column="60" selection-start-line="51" selection-start-column="60" selection-end-line="51" selection-end-column="60" />
         </state>
       </provider>
@@ -1999,7 +2449,7 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.13076924" vertical-offset="0" max-vertical-offset="520">
+        <state vertical-scroll-proportion="0.13076924">
           <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
@@ -2007,7 +2457,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/proActing/src/main/res/values/color.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="560">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -2018,7 +2468,7 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.12757973" vertical-offset="0" max-vertical-offset="533">
+        <state vertical-scroll-proportion="0.12757973">
           <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
           <folding />
         </state>
@@ -2026,14 +2476,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/proActing/src/main/java/com/example/proacting/ScenePlayFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3434">
+        <state vertical-scroll-proportion="0.0">
           <caret line="49" column="37" selection-start-line="49" selection-start-column="37" selection-end-line="49" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/proActing/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.08928572" vertical-offset="35" max-vertical-offset="595">
+        <state vertical-scroll-proportion="0.08928572">
           <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
@@ -2041,21 +2491,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33392859" vertical-offset="0" max-vertical-offset="560">
+        <state vertical-scroll-proportion="0.33392859">
           <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/proActing/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.54464287" vertical-offset="52" max-vertical-offset="612">
+        <state vertical-scroll-proportion="0.54464287">
           <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/proActing/src/main/res/values/styles.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
+        <state vertical-scroll-proportion="0.0">
           <caret line="16" column="58" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
           <folding />
         </state>
@@ -2066,7 +2516,7 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="221">
+        <state vertical-scroll-proportion="0.0">
           <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
           <folding />
         </state>
@@ -2074,7 +2524,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/proActing/src/main/java/com/example/proacting/EditPlayPagerActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2125" vertical-offset="306" max-vertical-offset="2040">
+        <state vertical-scroll-proportion="0.0">
           <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -2084,4 +2534,3 @@
     </entry>
   </component>
 </project>
-
