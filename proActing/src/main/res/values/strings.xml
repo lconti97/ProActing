@@ -18,5 +18,6 @@
     <string name="me">ME</string>
     <string name="not_me">NOT ME</string>
     <string name="dummy">...</string>
+    <string name="my_projects">MY PROJECTS</string>
 
 </resources>

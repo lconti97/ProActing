@@ -23,6 +23,13 @@
         <dex dex="C:\Users\Lucas\AndroidStudioProjects\ProActing\proActing\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-997bc4e56fd072da8688b8e4e35dda48bdcf0569.jar" />
     </item>
     <item
+        jar="C:\Users\Lucas\AndroidStudioProjects\ProActing\proActing\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\1.2.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b868b833b0887aa48c4e581558eef4f1196f6a2">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\ProActing\proActing\build\intermediates\pre-dexed\debug\classes-bc964583fcecbf1a7c432d2e5e74b612d3e232ee.jar" />
+    </item>
+    <item
         jar="C:\Users\Lucas\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
         jumboMode="false"
         revision="21.1.2"
@@ -35,6 +42,13 @@
         revision="21.1.2"
         sha1="d84409890828e07d344a3b9b1da545dba9897b51">
         <dex dex="C:\Users\Lucas\AndroidStudioProjects\ProActing\proActing\build\intermediates\pre-dexed\debug\classes-d48fbaa4cb1bacdecb57217dfb0e07eaaeaf7309.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas\AndroidStudioProjects\ProActing\proActing\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\ProActing\proActing\build\intermediates\pre-dexed\debug\classes-50068c2e34f7404546c522ac792a2c9b3b8f9d76.jar" />
     </item>
     <item
         jar="C:\Users\Lucas\AndroidStudioProjects\ProActing\proActing\build\intermediates\exploded-aar\com.github.navasmdc\MaterialDesign\1.4\classes.jar"
