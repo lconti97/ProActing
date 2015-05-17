@@ -58,25 +58,25 @@ public final class R {
 		public static final int sprite_check = 0x7f020049;
 	}
 	public static final class id {
-		public static final int blue = 0x7f08004b;
-		public static final int button_accept = 0x7f080051;
-		public static final int button_cancel = 0x7f080050;
-		public static final int buttonflat = 0x7f080062;
-		public static final int contentDialog = 0x7f08004d;
-		public static final int contentSelector = 0x7f080047;
-		public static final int dialog_rootView = 0x7f08004c;
-		public static final int green = 0x7f08004a;
-		public static final int message = 0x7f08004f;
-		public static final int message_scrollView = 0x7f08004e;
-		public static final int number_indicator_spinner_content = 0x7f08005e;
-		public static final int progressBarCircularIndetermininate = 0x7f08005f;
-		public static final int red = 0x7f080049;
-		public static final int rootSelector = 0x7f080046;
-		public static final int shape_bacground = 0x7f080068;
-		public static final int snackbar = 0x7f080061;
-		public static final int text = 0x7f080063;
+		public static final int blue = 0x7f08004c;
+		public static final int button_accept = 0x7f080052;
+		public static final int button_cancel = 0x7f080051;
+		public static final int buttonflat = 0x7f080063;
+		public static final int contentDialog = 0x7f08004e;
+		public static final int contentSelector = 0x7f080048;
+		public static final int dialog_rootView = 0x7f08004d;
+		public static final int green = 0x7f08004b;
+		public static final int message = 0x7f080050;
+		public static final int message_scrollView = 0x7f08004f;
+		public static final int number_indicator_spinner_content = 0x7f08005f;
+		public static final int progressBarCircularIndetermininate = 0x7f080060;
+		public static final int red = 0x7f08004a;
+		public static final int rootSelector = 0x7f080047;
+		public static final int shape_bacground = 0x7f080069;
+		public static final int snackbar = 0x7f080062;
+		public static final int text = 0x7f080064;
 		public static final int title = 0x7f080029;
-		public static final int viewColor = 0x7f080048;
+		public static final int viewColor = 0x7f080049;
 	}
 	public static final class layout {
 		public static final int color_selector = 0x7f030018;

@@ -10,11 +10,16 @@ import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
 import android.support.v4.view.ViewPager;
 import android.support.v4.view.ViewPager.OnPageChangeListener;
+import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBarActivity;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.Toolbar;
+import android.view.GestureDetector;
+import android.view.MotionEvent;
+import android.view.View;
 import android.widget.ArrayAdapter;
+import android.widget.Toast;
 
 import com.astuetz.PagerSlidingTabStrip;
 import com.example.learnmylines.R;
@@ -26,6 +31,7 @@ public class EditPlayPagerActivity extends ActionBarActivity {
     private static final String TAG = "EditPlayPagerActivity";
     final String[] TAB_TITLES = {"edit", "play"};
 
+
     private Scene mScene;
     private ViewPager mViewPager;
     private ArrayAdapter<Line> mLineListAdapter;
@@ -34,10 +40,19 @@ public class EditPlayPagerActivity extends ActionBarActivity {
     private RecyclerView mRecyclerView;
     private MyAdapter mNavDrawerAdapter;
     private ArrayList<String> mProjectTitles = new ArrayList<String>();
+    private DrawerLayout mNavDrawer;
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
+        final GestureDetector mGestureDetector = new GestureDetector(
+                EditPlayPagerActivity.this, new GestureDetector.SimpleOnGestureListener() {
+            @Override
+            public boolean onSingleTapUp(MotionEvent e) {
+                return true;
+            }
+        });
 
         createSampleCase();
         final LinearLayoutManager mLayoutManager = new LinearLayoutManager(getApplicationContext());
@@ -114,6 +129,34 @@ public class EditPlayPagerActivity extends ActionBarActivity {
         mNavDrawerAdapter = new MyAdapter(mProjectTitles, ints,
                 getResources().getString(R.string.my_projects), R.drawable.ic_launcher);
         mRecyclerView.setAdapter(mNavDrawerAdapter);
+
+        mNavDrawer = (DrawerLayout)findViewById(R.id.nav_drawer);
+
+        mRecyclerView.addOnItemTouchListener(new RecyclerView.OnItemTouchListener() {
+            @Override
+            public boolean onInterceptTouchEvent(RecyclerView recyclerView, MotionEvent motionEvent) {
+                View child = recyclerView.findChildViewUnder(motionEvent.getX(), motionEvent.getY());
+
+
+                if (child != null && mGestureDetector.onTouchEvent(motionEvent)) {
+                    mNavDrawer.closeDrawer(findViewById(R.id.Recycler_view));
+                    Toast.makeText(getApplicationContext(), R.string.app_name, Toast.LENGTH_SHORT).show();
+
+                    return true;
+
+                }
+
+
+                return false;
+            }
+
+            @Override
+            public void onTouchEvent(RecyclerView recyclerView, MotionEvent motionEvent) {
+
+            }
+        });
+
+
     }
 
     public ArrayAdapter<Line> getLineListAdapter() {
