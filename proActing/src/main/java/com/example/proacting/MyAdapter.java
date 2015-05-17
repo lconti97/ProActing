@@ -90,6 +90,7 @@ public class MyAdapter extends RecyclerView.Adapter<MyAdapter.ViewHolder> {
             View v = LayoutInflater.from(parent.getContext()).inflate(R.layout.item_row, parent, false); //Inflating the layout
 
             ViewHolder vhItem = new ViewHolder(v, viewType); //Creating ViewHolder and passing the object of type view
+            
 
             return vhItem; // Returning the created object
 
