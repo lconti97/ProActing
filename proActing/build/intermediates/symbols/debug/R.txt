@@ -408,11 +408,12 @@ int drawable float_button1_shadowp 0x7f020041
 int drawable float_button_shadow1 0x7f020042
 int drawable ic_launcher 0x7f020043
 int drawable ic_mic_black_24dp 0x7f020044
-int drawable ic_reloj_max 0x7f020045
-int drawable psts_background_tab 0x7f020046
-int drawable shadow_down 0x7f020047
-int drawable shadow_right 0x7f020048
-int drawable sprite_check 0x7f020049
+int drawable ic_mic_white_24dp 0x7f020045
+int drawable ic_reloj_max 0x7f020046
+int drawable psts_background_tab 0x7f020047
+int drawable shadow_down 0x7f020048
+int drawable shadow_right 0x7f020049
+int drawable sprite_check 0x7f02004a
 int id Recycler_view 0x7f080045
 int id action_bar 0x7f080033
 int id action_bar_activity_content 0x7f080000
@@ -789,7 +790,7 @@ int style Theme_AppCompat_Light_Dialog 0x7f0b00ac
 int style Theme_AppCompat_Light_DialogWhenLarge 0x7f0b00ad
 int style Theme_AppCompat_Light_NoActionBar 0x7f0b00ae
 int style Theme_AppCompat_NoActionBar 0x7f0b00af
-int style Theme_Orange 0x7f0b00b0
+int style Theme_Purple 0x7f0b00b0
 int style ThemeOverlay_AppCompat 0x7f0b00b1
 int style ThemeOverlay_AppCompat_ActionBar 0x7f0b00b2
 int style ThemeOverlay_AppCompat_Dark 0x7f0b00b3

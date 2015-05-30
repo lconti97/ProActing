@@ -1648,11 +1648,12 @@ containing a value of this type.
         public static final int float_button_shadow1=0x7f020042;
         public static final int ic_launcher=0x7f020043;
         public static final int ic_mic_black_24dp=0x7f020044;
-        public static final int ic_reloj_max=0x7f020045;
-        public static final int psts_background_tab=0x7f020046;
-        public static final int shadow_down=0x7f020047;
-        public static final int shadow_right=0x7f020048;
-        public static final int sprite_check=0x7f020049;
+        public static final int ic_mic_white_24dp=0x7f020045;
+        public static final int ic_reloj_max=0x7f020046;
+        public static final int psts_background_tab=0x7f020047;
+        public static final int shadow_down=0x7f020048;
+        public static final int shadow_right=0x7f020049;
+        public static final int sprite_check=0x7f02004a;
     }
     public static final class id {
         public static final int Recycler_view=0x7f080045;
@@ -2044,7 +2045,7 @@ containing a value of this type.
         public static final int Theme_AppCompat_Light_DialogWhenLarge=0x7f0b00ad;
         public static final int Theme_AppCompat_Light_NoActionBar=0x7f0b00ae;
         public static final int Theme_AppCompat_NoActionBar=0x7f0b00af;
-        public static final int Theme_Orange=0x7f0b00b0;
+        public static final int Theme_Purple=0x7f0b00b0;
         public static final int ThemeOverlay_AppCompat=0x7f0b00b1;
         public static final int ThemeOverlay_AppCompat_ActionBar=0x7f0b00b2;
         public static final int ThemeOverlay_AppCompat_Dark=0x7f0b00b3;

@@ -15,7 +15,7 @@
         android:allowBackup="true"
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name"
-        android:theme="@style/Theme.Orange" >
+        android:theme="@style/Theme.Purple" >
         <activity
             android:name="com.example.proacting.EditPlayPagerActivity"
             android:label="@string/app_name" >

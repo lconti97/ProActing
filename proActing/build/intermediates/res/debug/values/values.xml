@@ -18,7 +18,7 @@
     <color name="abc_search_url_text_selected">@android:color/black</color>
     <!-- From: file:/C:/Users/Lucas/AndroidStudioProjects/ProActing/proActing/src/main/res/values/color.xml -->
     <eat-comment/>
-    <item name="accent" type="color">#69f0ae</item>
+    <item name="accent" type="color">#FF5252</item>
     <!-- From: file:/C:/Users/Lucas/AndroidStudioProjects/ProActing/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
     <eat-comment/>
     <color name="accent_material_dark">@color/material_deep_teal_200</color>
@@ -57,9 +57,9 @@
     <color name="material_deep_teal_500">#ff009688</color>
     <!-- From: file:/C:/Users/Lucas/AndroidStudioProjects/ProActing/proActing/src/main/res/values/color.xml -->
     <eat-comment/>
-    <item name="primary" type="color">#ff9800</item>
-    <item name="primaryDark" type="color">#f57c00</item>
-    <item name="primaryLight" type="color">#ffe0b2</item>
+    <item name="primary" type="color">#BA68C8</item>
+    <item name="primaryDark" type="color">#AB47BC</item>
+    <item name="primaryLight" type="color">#E1BEE7</item>
     <!-- From: file:/C:/Users/Lucas/AndroidStudioProjects/ProActing/proActing/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
     <eat-comment/>
     <color name="primary_dark_material_dark">#ff000000</color>
@@ -1349,7 +1349,7 @@
     </style>
     <!-- From: file:/C:/Users/Lucas/AndroidStudioProjects/ProActing/proActing/src/main/res/values/styles.xml -->
     <eat-comment/>
-    <style name="Theme.Orange" parent="Theme.AppCompat.Light.NoActionBar">
+    <style name="Theme.Purple" parent="Theme.AppCompat.Light.NoActionBar">
         <item name="colorPrimary">@color/primary</item>
         <item name="colorPrimaryDark">@color/primaryDark</item>
         <item name="colorAccent">@color/accent</item>

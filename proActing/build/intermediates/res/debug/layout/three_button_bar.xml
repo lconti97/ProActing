@@ -34,7 +34,7 @@
         android:layout_above="@id/button_bar"
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="-56dp"
-        materialdesign:iconDrawable="@drawable/ic_mic_black_24dp"
+        materialdesign:iconDrawable="@drawable/ic_mic_white_24dp"
         materialdesign:animate="true"/>
 
 </RelativeLayout><!-- From: file:/C:/Users/Lucas/AndroidStudioProjects/ProActing/proActing/src/main/res/layout/three_button_bar.xml -->
